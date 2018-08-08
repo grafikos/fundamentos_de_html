@@ -1,0 +1,20 @@
+body {
+  background-color: gray;
+}
+footer{
+  margin-top: 20px;
+}
+img {
+  border-radius: 10px;
+}
+#informacion {
+
+}
+#Contenedor {
+  font-family: helvetica;
+  font-size: 16px;
+}
+#Encabezado {
+  display: block;
+  margin: 0 auto;
+}
